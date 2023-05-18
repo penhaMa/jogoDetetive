@@ -1,0 +1,8 @@
+C:\Users\penha\source\repos\jogoDetetive\jogoDetetive\bin\Debug\jogoDetetive.exe.config
+C:\Users\penha\source\repos\jogoDetetive\jogoDetetive\bin\Debug\jogoDetetive.exe
+C:\Users\penha\source\repos\jogoDetetive\jogoDetetive\bin\Debug\jogoDetetive.pdb
+C:\Users\penha\source\repos\jogoDetetive\jogoDetetive\obj\Debug\jogoDetetive.csproj.AssemblyReference.cache
+C:\Users\penha\source\repos\jogoDetetive\jogoDetetive\obj\Debug\jogoDetetive.csproj.SuggestedBindingRedirects.cache
+C:\Users\penha\source\repos\jogoDetetive\jogoDetetive\obj\Debug\jogoDetetive.csproj.CoreCompileInputs.cache
+C:\Users\penha\source\repos\jogoDetetive\jogoDetetive\obj\Debug\jogoDetetive.exe
+C:\Users\penha\source\repos\jogoDetetive\jogoDetetive\obj\Debug\jogoDetetive.pdb
